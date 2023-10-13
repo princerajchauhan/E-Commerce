@@ -1,0 +1,99 @@
+.nav-main {
+    display: flex;
+    /* grid-template-columns: 1fr 1fr; */
+    justify-content: space-between;
+    padding: 10px 50px;
+    align-items: center;
+    gap: 10%;
+    background-color: lightcoral;
+}
+
+
+.brand-search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    width: 100%;
+}
+
+.logo>h3{
+    cursor: pointer;
+    color: yellow;
+}
+
+.search{
+    width: 100%;
+    display: flex;
+    background-color: azure;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.icons{
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.search>input{
+    width: 100%;
+    padding: 5px 5px;
+    border: none;
+    outline: none;
+    margin: 0;
+    background-color: transparent;
+}
+
+.nav-item {
+    display: flex;
+    gap: 40px;
+    justify-content: flex-end;
+}
+
+.hoverBorder.active {
+    color: blue;
+}
+
+.cart-link.active {
+    color: blue;
+}
+
+.nav-item>a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.hoverBorder {
+    position: relative;
+    width: fit-content;
+    padding: 2px 5px;
+}
+
+.hoverBorder::before{
+    position: absolute;
+    content: '';
+    left: 0;
+    bottom: 0;
+    width: 0;
+    border-bottom: 2px solid crimson;
+    transition: 0.3s linear;
+}
+
+.hoverBorder:hover::before{
+    width: 100%;
+}
+
+
+.cart-link {
+    position: relative;
+}
+
+.cart-item {
+    position: absolute;
+    top: -5px;
+    color: red;
+    border-radius: 50%;
+    padding: 0 1px;
+    font-weight: 600;
+}
