@@ -253,142 +253,142 @@ const Data = [
         "reviews": 231,
         "stock": 6
     },
-    // {
-    //     "id": 17,
-    //     "name": "ASUS TUF Gaming F15 with 90WHr Battery Core i5 11th Gen 11400H",
-    //     "price": 6099000,
-    //     "company": "Asus",
-    //     "colors": [
-    //         "#22D3EF",
-    //         "#ff0000",
-    //         "#000000"
-    //     ],
-    //     "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/v/y/z/-original-imagtucnqsqpbvk6.jpeg?q=70",
-    //     "description": "15.6 Inch Full HD, Refresh Rate 144Hz, Viewing Angle 85/85/85/85, Panel Tech Value IPS-level, Brightness 250, Contrast 1000:1, NTSC 45%, SRGB 62.5%, Adobe 47.34%, Anti-glare display Light Laptop without Optical Disk Drive",
-    //     "category": "Laptop",
-    //     "stars": 4.4,
-    //     "reviews": 19,
-    //     "stock": 4
-    // },
-    // {
-    //     "id": 18,
-    //     "name": "Whirlpool 7.5 Kg 5 Star Stainwash Pro Fully Automatic",
-    //     "price": 1774000,
-    //     "company": "Whirlpool",
-    //     "colors": [
-    //         "#22D3EF",
-    //         "#ff0000",
-    //         "#000000"
-    //     ],
-    //     "image": "https://m.media-amazon.com/images/I/619ShOPFfJL._SY679_.jpg",
-    //     "description": "Washing Machine Fully Automatic top load washing machine : Affordable with best wash quality and easy to use with In-Built Heater Washing Machine Fully Automatic Capacity 7.5 kg : Suitable for 3 – 4 members per wash",
-    //     "category": "Washing",
-    //     "stars": 4.4,
-    //     "reviews": 231,
-    //     "stock": 6
-    // },
-    // {
-    //     "id": 19,
-    //     "name": "Pintola All Natural Peanut Butter Crunchy 1kg ",
-    //     "price": 38800,
-    //     "company": "Pintola",
-    //     "colors": [
-    //         "#22D3EF",
-    //         "#ff0000",
-    //         "#000000"
-    //     ],
-    //     "image": "https://m.media-amazon.com/images/I/41ZgEwnQ8bL._SX300_SY300_QL70_FMwebp_.jpg",
-    //     "description": "100% NATURAL - No Palm Oi l / Non Hydrogenated Oil / No Preservatives / No Artificial Flavour / Made with just one ingredient Hand selected Premium Roasted Peanuts. Our USFDA-approved and gluten-free peanut butter is a smart choice! Made with non GMO premium peanuts, it's a rich source of fiber, antioxidants & healthy fats.",
-    //     "category": "Butter",
-    //     "stars": 4.2,
-    //     "reviews": 304,
-    //     "stock": 10
-    // },
-    // {
-    //     "id": 20,
-    //     "name": "Pintola Wholegrain & Seeds Muesli with 33% Millet 800g",
-    //     "price": 51100,
-    //     "company": "Pintola",
-    //     "colors": [
-    //         "#22D3EF",
-    //         "#ff0000",
-    //         "#000000"
-    //     ],
-    //     "image": "https://m.media-amazon.com/images/I/91TJmfTb0-L._SX679_.jpg",
-    //     "description": "100% NATURAL - No Palm Oi l / Non Hydrogenated Oil / No Preservatives / No Artificial Flavour / Made with just one ingredient Hand selected Premium Roasted Peanuts. Our USFDA-approved and gluten-free peanut butter is a smart choice! Made with non GMO premium peanuts, it's a rich source of fiber, antioxidants & healthy fats.",
-    //     "category": "Cereals",
-    //     "stars": 4.7,
-    //     "reviews": 77,
-    //     "stock": 15
-    // },
-    // {
-    //     "id": 21,
-    //     "name": "Fire-Boltt Ninja Call Pro Plus 1.83 Smart Watch with Bluetooth Calling",
-    //     "price": 109900,
-    //     "company": "Fire-Boltt",
-    //     "colors": [
-    //         "#22D3EF",
-    //         "#ff0000",
-    //         "#000000"
-    //     ],
-    //     "image": "https://m.media-amazon.com/images/I/61AHiYyu3ZL._SX679_.jpg",
-    //     "description": "【1.83 HD Display Smart Watch】- The 46.48mm (1.83-inch) HD display makes the display clear and true-to-life, with vivid colours ensuring smooth readability and keeping the watch as exquisite to look at as when you first lay your eyes on it. The watch has a 280 NITS Peak Brightness",
-    //     "category": "Watch",
-    //     "stars": 4.2,
-    //     "reviews": 103,
-    //     "stock": 7
-    // },
-    // {
-    //     "id": 22,
-    //     "name": "ASUS TUF Gaming F15, 15.6 (39.62 cms) FHD 144Hz, Intel Core i7-11800H 11th Gen",
-    //     "price": 6999000,
-    //     "company": "Asus",
-    //     "colors": [
-    //         "#22D3EF",
-    //         "#ff0000",
-    //         "#000000"
-    //     ],
-    //     "image": "https://m.media-amazon.com/images/I/81x9vxrPFwS._SX679_.jpg",
-    //     "description": "Play over 100 high-quality PC games, plus new and upcoming blockbusters on day one like Halo Infinite, Forza Horizon 5, and Age of Empires IV and one month of Game Pass-including EA Play.",
-    //     "category": "Laptop",
-    //     "stars": 3.9,
-    //     "reviews": 212,
-    //     "stock": 7
-    // },
-    // {
-    //     "id": 23,
-    //     "name": "Pintola Peanut Butter Chocolate Flavour Crunchy 1kg ",
-    //     "price": 42500,
-    //     "company": "Pintola",
-    //     "colors": [
-    //         "#22D3EF",
-    //         "#ff0000",
-    //         "#000000"
-    //     ],
-    //     "image": "https://m.media-amazon.com/images/I/71zEYXzxVLL._SX679_.jpg",
-    //     "description": "INDULGE IN YOUR CRAVINGS WITHOUT ANY GUILT. The Dark Chocolate Peanut Butter is a healthy and tasty treat for your taste buds. If you're hungering for chocolate and worried about your health, this is the perfect treat for you.",
-    //     "category": "Butter",
-    //     "stars": 4.3,
-    //     "reviews": 190,
-    //     "stock": 8
-    // },
-    // {
-    //     "id": 24,
-    //     "name": "boAt Wave Call 2 Smart Watch with 1.83 HD Display",
-    //     "price": 119900,
-    //     "company": "BoAt",
-    //     "colors": [
-    //         "#22D3EF",
-    //         "#ff0000",
-    //         "#000000"
-    //     ],
-    //     "image": "https://m.media-amazon.com/images/I/61FZ83ArEwL._SX679_.jpg",
-    //     "description": "Screen: 1.83-inch HD display with a square dial offers a full capacitive touch experience, allowing you to easily take control. Peak Brightness: 550 Nits, AMOLED Display: NO",
-    //     "category": "Watch",
-    //     "stars": 3.9,
-    //     "reviews": 124,
-    //     "stock": 7
-    // }
+    {
+        "id": 17,
+        "name": "ASUS TUF Gaming F15 with 90WHr Battery Core i5 11th Gen 11400H",
+        "price": 6099000,
+        "company": "Asus",
+        "colors": [
+            "#22D3EF",
+            "#ff0000",
+            "#000000"
+        ],
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/v/y/z/-original-imagtucnqsqpbvk6.jpeg?q=70",
+        "description": "15.6 Inch Full HD, Refresh Rate 144Hz, Viewing Angle 85/85/85/85, Panel Tech Value IPS-level, Brightness 250, Contrast 1000:1, NTSC 45%, SRGB 62.5%, Adobe 47.34%, Anti-glare display Light Laptop without Optical Disk Drive",
+        "category": "Laptop",
+        "stars": 4.4,
+        "reviews": 19,
+        "stock": 4
+    },
+    {
+        "id": 18,
+        "name": "Whirlpool 7.5 Kg 5 Star Stainwash Pro Fully Automatic",
+        "price": 1774000,
+        "company": "Whirlpool",
+        "colors": [
+            "#22D3EF",
+            "#ff0000",
+            "#000000"
+        ],
+        "image": "https://m.media-amazon.com/images/I/619ShOPFfJL._SY679_.jpg",
+        "description": "Washing Machine Fully Automatic top load washing machine : Affordable with best wash quality and easy to use with In-Built Heater Washing Machine Fully Automatic Capacity 7.5 kg : Suitable for 3 – 4 members per wash",
+        "category": "Washing",
+        "stars": 4.4,
+        "reviews": 231,
+        "stock": 6
+    },
+    {
+        "id": 19,
+        "name": "Pintola All Natural Peanut Butter Crunchy 1kg ",
+        "price": 38800,
+        "company": "Pintola",
+        "colors": [
+            "#22D3EF",
+            "#ff0000",
+            "#000000"
+        ],
+        "image": "https://m.media-amazon.com/images/I/41ZgEwnQ8bL._SX300_SY300_QL70_FMwebp_.jpg",
+        "description": "100% NATURAL - No Palm Oi l / Non Hydrogenated Oil / No Preservatives / No Artificial Flavour / Made with just one ingredient Hand selected Premium Roasted Peanuts. Our USFDA-approved and gluten-free peanut butter is a smart choice! Made with non GMO premium peanuts, it's a rich source of fiber, antioxidants & healthy fats.",
+        "category": "Butter",
+        "stars": 4.2,
+        "reviews": 304,
+        "stock": 10
+    },
+    {
+        "id": 20,
+        "name": "Pintola Wholegrain & Seeds Muesli with 33% Millet 800g",
+        "price": 51100,
+        "company": "Pintola",
+        "colors": [
+            "#22D3EF",
+            "#ff0000",
+            "#000000"
+        ],
+        "image": "https://m.media-amazon.com/images/I/91TJmfTb0-L._SX679_.jpg",
+        "description": "100% NATURAL - No Palm Oi l / Non Hydrogenated Oil / No Preservatives / No Artificial Flavour / Made with just one ingredient Hand selected Premium Roasted Peanuts. Our USFDA-approved and gluten-free peanut butter is a smart choice! Made with non GMO premium peanuts, it's a rich source of fiber, antioxidants & healthy fats.",
+        "category": "Cereals",
+        "stars": 4.7,
+        "reviews": 77,
+        "stock": 15
+    },
+    {
+        "id": 21,
+        "name": "Fire-Boltt Ninja Call Pro Plus 1.83 Smart Watch with Bluetooth Calling",
+        "price": 109900,
+        "company": "Fire-Boltt",
+        "colors": [
+            "#22D3EF",
+            "#ff0000",
+            "#000000"
+        ],
+        "image": "https://m.media-amazon.com/images/I/61AHiYyu3ZL._SX679_.jpg",
+        "description": "【1.83 HD Display Smart Watch】- The 46.48mm (1.83-inch) HD display makes the display clear and true-to-life, with vivid colours ensuring smooth readability and keeping the watch as exquisite to look at as when you first lay your eyes on it. The watch has a 280 NITS Peak Brightness",
+        "category": "Watch",
+        "stars": 4.2,
+        "reviews": 103,
+        "stock": 7
+    },
+    {
+        "id": 22,
+        "name": "ASUS TUF Gaming F15, 15.6 (39.62 cms) FHD 144Hz, Intel Core i7-11800H 11th Gen",
+        "price": 6999000,
+        "company": "Asus",
+        "colors": [
+            "#22D3EF",
+            "#ff0000",
+            "#000000"
+        ],
+        "image": "https://m.media-amazon.com/images/I/81x9vxrPFwS._SX679_.jpg",
+        "description": "Play over 100 high-quality PC games, plus new and upcoming blockbusters on day one like Halo Infinite, Forza Horizon 5, and Age of Empires IV and one month of Game Pass-including EA Play.",
+        "category": "Laptop",
+        "stars": 3.9,
+        "reviews": 212,
+        "stock": 7
+    },
+    {
+        "id": 23,
+        "name": "Pintola Peanut Butter Chocolate Flavour Crunchy 1kg ",
+        "price": 42500,
+        "company": "Pintola",
+        "colors": [
+            "#22D3EF",
+            "#ff0000",
+            "#000000"
+        ],
+        "image": "https://m.media-amazon.com/images/I/71zEYXzxVLL._SX679_.jpg",
+        "description": "INDULGE IN YOUR CRAVINGS WITHOUT ANY GUILT. The Dark Chocolate Peanut Butter is a healthy and tasty treat for your taste buds. If you're hungering for chocolate and worried about your health, this is the perfect treat for you.",
+        "category": "Butter",
+        "stars": 4.3,
+        "reviews": 190,
+        "stock": 8
+    },
+    {
+        "id": 24,
+        "name": "boAt Wave Call 2 Smart Watch with 1.83 HD Display",
+        "price": 119900,
+        "company": "BoAt",
+        "colors": [
+            "#22D3EF",
+            "#ff0000",
+            "#000000"
+        ],
+        "image": "https://m.media-amazon.com/images/I/61FZ83ArEwL._SX679_.jpg",
+        "description": "Screen: 1.83-inch HD display with a square dial offers a full capacitive touch experience, allowing you to easily take control. Peak Brightness: 550 Nits, AMOLED Display: NO",
+        "category": "Watch",
+        "stars": 3.9,
+        "reviews": 124,
+        "stock": 7
+    }
 ]
 
 module.exports = Data

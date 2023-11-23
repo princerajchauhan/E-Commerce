@@ -31,7 +31,7 @@ export const ContextProvider = ({ children }) => {
 
     return (
         <Data.Provider value={{ ...state }}>
-            {children}
+            {/* {children} */}
         </Data.Provider>
     )
 }

@@ -77,7 +77,7 @@ textarea {
     width: 70vw;
     margin: 20px auto;
     display: grid;
-    grid-template-columns: 40% 35%;
+    grid-template-columns: 40% 40%;
     gap: 5vw;
 }
 
@@ -164,4 +164,72 @@ textarea {
 }
 .extra-off+p{
     font-weight: 600;
+}
+
+/* ***************** RESPONSIVE *************** */
+
+@media screen and (max-width:1100px) {
+    .single-wrapper{
+        width: 80vw;
+    }
+    .contact-main{
+        grid-template-columns: 50% 50%;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .single-wrapper{
+        grid-template-columns: 45% 50%;
+        gap: 3vw;
+    }
+}
+
+@media screen and (max-width:900px) {
+    .contact-main{
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .single-wrapper{
+        grid-template-columns: 45% 53%;
+        width: 87vw;
+        gap: 2vw;
+    }
+}
+
+@media screen and (max-width:650px) {
+    .single-wrapper{
+        display: flex;
+        /* grid-template-columns: 1fr; */
+        flex-direction: column;
+        height: fit-content;
+        width: 80vw;
+        gap: 70px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .form-section > form {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width:450px) {
+    .carousel-heading > h2{
+        font-size: 24px;
+    }
+    .form-section > form {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .single-wrapper{
+        width: 90vw;
+    }
+    .delivery-col>p{
+        font-size: 10px;
+    }
 }

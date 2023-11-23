@@ -24,7 +24,8 @@ const userSchema = new Schema({
         type: String,
         require: true,
         trim: true
-    }
+    },
+    cart: [{ product: { type: Schema.Types.ObjectId, ref: 'Product' }, quantity: Number }]
 })
 
 module.exports = mongoose.model("UserDetail", userSchema)
